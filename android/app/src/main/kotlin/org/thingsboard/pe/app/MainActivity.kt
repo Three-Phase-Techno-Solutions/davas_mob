@@ -1,4 +1,4 @@
-package org.3phtech.davas.app
+package org.tpts.davas.app
 
 import androidx.annotation.NonNull
 import io.flutter.embedding.android.FlutterActivity

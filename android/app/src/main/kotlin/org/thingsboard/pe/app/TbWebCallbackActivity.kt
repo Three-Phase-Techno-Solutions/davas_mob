@@ -1,4 +1,4 @@
-package org.3phtech.davas.app
+package org.tpts.davas.app
 
 import android.app.Activity
 import android.net.Uri
