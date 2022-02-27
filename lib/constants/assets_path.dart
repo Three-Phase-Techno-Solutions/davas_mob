@@ -5,8 +5,8 @@ abstract class ThingsboardImage {
   // static final thingsboardCenter = 'assets/images/thingsboard_center.svg';
   static final thingsBoardWithTitle = 'assets/images/davas_logo_with_title.svg';
   static final thingsboard = 'assets/images/davas.svg';
-  static final thingsboardOuter = 'assets/images/blank.svg';
-  static final thingsboardCenter = 'assets/images/davas_center.svg';
+  static final thingsboardOuter = 'assets/images/davas_center.svg';
+  static final thingsboardCenter = 'assets/images/blank.svg';
   static final dashboardPlaceholder = 'assets/images/dashboard-placeholder.svg';
   static final deviceProfilePlaceholder =
       'assets/images/device-profile-placeholder.svg';
