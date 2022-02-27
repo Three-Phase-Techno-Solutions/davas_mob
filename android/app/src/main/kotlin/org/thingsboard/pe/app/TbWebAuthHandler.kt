@@ -1,4 +1,4 @@
-package org.thingsboard.pe.app
+package org.3phtech.davas.app
 
 import android.content.Context
 import android.content.Intent
